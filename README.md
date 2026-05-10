@@ -110,7 +110,7 @@ main/
 │
 └── README.md
 
-**Recommended Notebook Execution Order**
+# Recommended Notebook Execution Order
 
 Run the notebooks in the following sequence to reproduce the complete Machine Learning pipeline:
 
