@@ -102,15 +102,15 @@ main/
 │   │   └── rf_model.joblib
 │   │
 │   ├── metrics/
-│   │   └── tuning_results.csv
-│   │
-│   └── plots/
+│       └── tuning_results.csv
+│   
+│   
 │
 ├── requirements.txt
 │
 └── README.md
 
-# Recommended Notebook Execution Order
+**Recommended Notebook Execution Order**
 
 Run the notebooks in the following sequence to reproduce the complete Machine Learning pipeline:
 
